@@ -2,7 +2,7 @@
 
 ## I'm a reliable, organized, and hard-working independent contractor.
 
-See my [freelance services](https://matthewhendricks.net//services/) or [examples of my work](https://matthewhendricks.net//work/).
+See my [freelance services](https://matthewhendricks.net/services/) or [examples of my work](https://matthewhendricks.net/work/).
 
 I have worked with smaller start-ups and independent consulting gigs. I've also had the good fortune of working for technology giants:
 
@@ -26,5 +26,3 @@ Recently, I've learned to develop a new perspective on work, which has helped me
 - Experienced as a technical writer, product manager, technical services manager.
 - See examples of my [work](https://matthewhendricks.net/work/) and check out my [services](/services/).
 - **Recruiters** see my [resume](https://matthewhendricks.net/resume/) and [LinkedIn](https://www.linkedin.com/in/watthem) 😊.
-
-  <video preload loop muted autoplay src="https://mscott.b-cdn.net/seattle.mp4"></video>
