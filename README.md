@@ -2,7 +2,7 @@
 
 ## I'm a reliable, organized, and hard-working independent contractor.
 
-See[examples of my work](https://matthewhendricks.net/work/).
+See [examples of my work](https://matthewhendricks.net/work/).
 
 <a class="link-button" href="https://matthewhendricks.net/resume/"><button>My résumé</button></a>
 
