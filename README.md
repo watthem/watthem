@@ -1,10 +1,10 @@
 # About Matthew
 
+> Former [@ninjatrader](https://twitter.com/NinjaTrader), [@speedtest](https://twitter.com/Speedtest) 
+
 ## Writes about FinTech products.
 
 <a class="link-button" href="https://matthewhendricks.net/resume/"><button>My résumé</button></a>
-
-Former and [@ninjatrader](https://twitter.com/NinjaTrader), [@speedtest](https://twitter.com/Speedtest) 
 
 ## I am in Seattle, WA
 
