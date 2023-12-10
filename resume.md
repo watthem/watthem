@@ -1,96 +1,75 @@
-# Resume | Matthew Hendricks — Professional Profile
 
-**Product Developer** | **Web Designer** | **UX Specialist**
+# Matthew Hendricks
 
-> Driving Seamless User Experiences through Robust Product Development and Intuitive Design
+Knowledge Management Specialist & Web Developer
+
+> 15+ years of experience in technical communications and web development.
 
 ## Contact
 
-- Mountlake Terrace, WA (Greater Seattle area)
-- 206-446-5495
-- [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
+-  Mountlake Terrace, WA (Greater Seattle area)
+-  206-446-5495
+-  [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
 
-## Summary
+## Professional Summary
 
-- Seasoned Product Developer with a passion for user-centric digital products.
-- Proven ability to design and implement solutions that elevate user engagement, streamline operations, and drive business growth.
-- Committed to utilizing research and usability testing insights to shape intuitive, accessible designs.
+- Exceptional track record in enhancing knowledge sharing, reducing response times, and leading pivotal technology migrations for high-caliber enterprises and MSMEs.
+- Adept at creating actionable, user-centric documentation that empowers and educates.
+- Pioneered an innovative portfolio comprising predictive analytics and Jamstack projects, further establishing my expertise in product management, customer development and user focused design.
 
 ## Work Experience
 
-### Product Developer
+### Knowledge Management Consultant and Web Developer
 
-_2023 January - Present_
+*2023 January - Present*
 
-Decent Fintech — Mountlake Terrace, WA
+Freelance — Remote - Mountlake Terrace, WA
 
-- Orchestrated the development of a comprehensive suite of tools for modernizing wealth management.
-- Enhanced user experience with accessibility features and color theory.
-- Raised awareness about neurodevelopmental disorders.
-- Demonstrated progress in full-stack operations and technical SEO.
+-   Orchestrated the MVP launch of "Optimizer0" with innovative algorithm-based features to demystify wealth management.
+-   Led transformative Jamstack projects, elevating product blogs and documentation sites for optimal user engagement.
+-   Deployed inclusive design strategies, heightening accessibility and user retention across digital platforms.
 
 ### Customer Engineer
 
-_2021 October - 2022 June_
+*2021 October - 2022 June*
 
 Privacy Dynamics — Seattle, WA
 
-- Designed and implemented a comprehensive documentation website using Vite, Vue, and Figma.
-- Facilitated efficient onboarding and served as a valuable resource for sales and marketing teams.
-- Resolved technical queries and UX/QA issues to support potential customers and internal teams.
+- Developed and managed a new documentation website, implementing a JavaScript framework, designing graphics, and managing Netlify hosting.
+- Engaged with early-stage customers to address technical queries about privacy solutions for the modern data stack.
+- Troubleshot UX and QA issues in collaboration with the engineering team.
 
-### Contract Technical Writer
+### Technical Writing Specialist
 
-_2019 April - 2020 June_
+*2019 April - 2020 June*
 
 Microsoft, Premera Blue Cross — Seattle, WA
 
-- Produced comprehensive documentation of product features.
-- Streamlined information access by migrating documents to an internal wiki.
-- Collaborated with teams to ensure accuracy and timeliness of documentation.
+- Authored critical Office 365 support documentation under tight deadlines amidst the COVID-19 pandemic, enhancing the knowledge sharing between support staff and facilitating the transition to remote work for global teams.
+- Streamlined internal knowledge transfer using git and markdown, maintaining a stringent low error rate in high-stakes environments.
 
-### Technical Services Manager
+### Technical Content Manager
 
-_2017 April - 2018 December_
+*2017 April - 2018 December*
 
 Ookla — Seattle, WA
 
-- Led a team of 5 to transition the client base to the latest JavaScript/TLS protocols, upgrade servers, renew licenses, improve documentation and customer support.
-- Collaborated with PMs and engineers to update docs, onboard clients, and increase customer satisfaction.
-- Improved technical services by writing email templates, reducing first response time by 100%.
+- Curated tailored help content for Ookla's Speedtest Custom, guiding over 1200 ISPs in transitioning from Flash to JavaScript technologies.
+- Promoted an improved customer support framework through the meticulous development of a comprehensive documentation website.
 
-### Product Manager, Technical Lead
+### Senior Knowledge Management Analyst
 
-_2010 May - 2017 April_
+*2010 May - 2017 April*
 
 NinjaTrader — Denver, CO
 
-- Led development of NinjaTrader 8, a user-friendly trading platform that increased user satisfaction and customer acquisition.
-- Worked with a team to create a high-frequency trading platform that enhanced the company's market share.
-- Developed an engaging documentation website that attracted thousands of visitors and decreased customer service requests.
+-   Crafted an extensive 700-page help guide, boosting the operational efficiency of 60,000+ traders using the NinjaTrader platform.
+-   Administered advanced training for a technical support team of 30, focusing on algorithmic trading, while maintaining rigorous knowledge management practices.
 
 ## Education
 
-### Studied Computer Infromation Systems
+### Studied Computer Information Systems
 
 Laramie County Community College — Cheyenne, WY
 
 2005-09-01 - 2006-12-01
-
-## Skills
-
-- Accessibility Compliance (WCAG 2.1)
-- Backend Development (FastAPI)
-- Content Management Systems (CMS)
-- UI/UX Design (Figma, Canva)
-- Version Control (Git)
-- Documentation (Markdown, Mkdocs)
-- Continuous Deployment (Netlify)
-- Programming (Python, C#)
-- Technical Communication (Technical Writing)
-- Frontend Development (Vue.js, Tailwind)
-- Project Management (JIRA, Notion.so)
-- Customer Success (CRM)
-- Web Development (Static Site Generation with Hugo)
-- Customer Relationship Management (CRM Tools)
-- IT Service Management (Helpdesk Software)
