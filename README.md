@@ -35,3 +35,6 @@ If you're interested in collaborating on a project or wish to discuss knowledge 
 
 📧 [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
 
+💼 Portfolio: <https://matthewhendricks.net/work>
+
+- _See also_: [resume.md](https://github.com/watthem/watthem/blob/master/resume.md)
