@@ -1,40 +1,54 @@
-
 # Matthew Hendricks
 
-## Knowledge Management Specialist & Web Developer with 15+ Years of Experience
+## Systems Thinker • Creative Technologist • Documentation Specialist
 
-Hi there! 👋 I'm Matthew, an avid technologist specializing in knowledge management and web development from Mountlake Terrace, WA. I'm passionate about empowering organizations with efficient documentation, cutting-edge web solutions, and seamless technology migrations.
+Hey — I'm Matthew. I build lean systems that help people publish better content, ship smarter tools, and take back control of their knowledge.
 
-### About Me
+My work blends **technical writing**, **data-driven development**, and **product thinking** into actionable workflows that scale — whether it’s for dev tools, food budgeting zines, or creative AI labs.
 
-Driven by a growth mindset and quiet leadership, I strive to simplify the complex and innovate with purpose. When I'm not coding or architecting new knowledge bases, you might find me immersed in the world of sustainable open-source projects or contributing to DevOps forums.
+---
 
-### Professional Highlights
+### 🔧 Core Skills
 
-- Successfully orchestrated the MVP launch of "Optimizer0", revolutionizing wealth management through predictive analytics.
-- Led transformative Jamstack projects, boosting user engagement and accessibility across product blogs and documentation sites.
-- Authored a comprehensive 700-page help guide for NinjaTrader, greatly enhancing the trading experience for thousands.
+- **Languages**: TypeScript, Python, HTML5, CSS3, C#, JavaScript (ES6+)
+- **Frameworks & Tools**: Astro, FastAPI, Eleventy, Vue, .NET, Hugo, Obsidian, Postgres
+- **Specialties**: Technical Writing • CLI Tools • Headless CMS Migrations • AI-Enhanced Workflows • DevRel Infrastructure
 
-### Skills & Technologies
+---
 
-- **Programming Languages:** HTML5, TypeScript, C#, Python, JavaScript ES6, CSS3
-- **Frameworks & Tools:** Vue, .NET, FastAPI, Hugo, Astro, VuePress, Eleventy
-- **Soft Skills:** Growth-oriented Leadership, Strategic Management, Creative & Business Writing
+### 🧰 Recent & Ongoing Projects
 
-### Recent Projects
+- **📚 [Docs-score.com](https://docs-score.com)**  
+  Technical documentation audits & scoring for developer-focused sites.
 
-Some of my recent work:
+- **🎵 [ScratchTrack](https://github.com/watthem/scratchtrack)**  
+  Deterministic audio prompt builder for AI music tools like Suno.
 
-- **Jamstack Development (2023):** Advanced Jamstack technologies to create state-of-the-art product blogs and documentation sites.
-- **Technical Writing for Microsoft & Startups (2019-2022):** Played a pivotal role in streamlining operations and reducing response times during COVID-19.
-- **Ookla Speedtest Custom Content (2017-2019):** Facilitated ISP migrations from Flash to JavaScript, improving support and customer experiences.
+- **🥫 [Pantry.Report](https://pantry.report)**  
+  Weekly food budget intelligence for families fighting inflation.
 
-### Let's Connect
+- **🌐 [P2P.house](https://p2p.house)**  
+  Publishing lab for post-capitalist tools and community storytelling.
 
-If you're interested in collaborating on a project or wish to discuss knowledge management and web development, please feel free to reach out. Let's create impactful solutions together!
+---
 
-📧 [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
+### 🧭 Background
 
-💼 Portfolio: <https://matthewhendricks.net/work>
+- Authored the original 700+ page NinjaTrader Help Guide and drove NinjaScript feedback development.
+- Supported global content migrations and onboarding flows at Microsoft, Ookla, and early-stage startups.
+- Currently focused on local-first tools, digital zines, and sustainable creative work.
 
-- _See also_: [resume.md](https://github.com/watthem/watthem/blob/master/resume.md)
+---
+
+### 🤝 Let’s Work Together
+
+I help founders, writers, and technologists clarify their workflows and ship with confidence.
+
+📬 Consulting Email: [matthew@westmark.dev](mailto:matthew@westmark.dev)  
+🌐 Blog: [https://watthem.blog](https://watthem.blog)  
+🧪 Lab: [https://p2p.house](https://p2p.house)  
+💼 Resume: [resume.md](https://github.com/watthem/watthem/blob/master/resume.md)
+
+---
+
+_Systems are care. Let’s build something that lasts._
