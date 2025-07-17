@@ -1,95 +1,98 @@
 # Matthew Hendricks
 
-Knowledge Management Specialist & Web Developer
+## Systems Thinker • Creative Technologist • Documentation Specialist
 
-> 15+ years of experience in technical communications and web development.
+> 15+ years building lean systems, clear docs, and creative tools to help people ship faster and think better.
+
+---
 
 ## Contact
 
--  Mountlake Terrace, WA (Greater Seattle area)
--  206-446-5495
--  [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
+* Mountlake Terrace, WA (Greater Seattle area)
+* [matthew@westmark.dev](mailto:matthew@westmark.dev)
+* Blog: [https://watthem.blog](https://watthem.blog)
+* Projects: [https://docs-score.com](https://docs-score.com), [https://pantry.report](https://pantry.report)
+
+---
 
 ## Professional Summary
 
-- Exceptional track record in enhancing knowledge sharing, reducing response times, and leading pivotal technology migrations for high-caliber enterprises and MSMEs.
-- Adept at creating actionable, user-centric documentation that empowers and educates.
-- Pioneered an innovative portfolio comprising predictive analytics and Jamstack projects, further establishing my expertise in product management, customer development, and user-focused design.
-- Experience as an AI capability researcher, applying ML and NLP tools to automate processes and enhance productivity.
-- Recently took a career break to support family needs and am now ready to bring my extensive skills back into the workforce with aspirations to become a technical co-founder and product lead.
+* Deep expertise across documentation systems, web tooling, and startup infrastructure — combining product thinking with technical execution.
+* Skilled at making complex systems usable, whether through technical writing, CLI tools, AI-enhanced workflows, or customer onboarding.
+* Launched independent platforms for food budgeting, creative publishing, and developer lead gen.
+* Recent focus: productized services, LLM-enhanced writing flows, and bootstrapping sustainable creative tools.
+
+---
 
 ## Work Experience
 
-### Knowledge Management Consultant and Web Developer
+### Independent Consultant — Web & Documentation Systems
 
-*2023 January - Present*
+**2023 – Present | Remote | Mountlake Terrace, WA**
 
-Freelance — Remote - Mountlake Terrace, WA
+* Built and shipped multiple solo products: `Docs-score.com`, `Optimizer0`, `Pantry.Report`, and `ScratchTrack`.
+* Created a reusable CLI library and scoring engine to evaluate technical documentation across dev tool sites.
+* Led client migrations from legacy CMS platforms to modern stacks using Sanity, Next.js, Astro, and Eleventy.
+* Published weekly zines and budget tools to support families under inflation pressure.
+* Researched and prototyped deterministic audio workflows for AI music generation tools like Suno and Chirp.
 
-- Orchestrated the MVP launch of "Optimizer0," developing a backend and frontend prototype using VueJS, Tailwind, Python, and Polars for dataframe analysis, and creating methods for modern portfolio theory calculations, resulting in a functional platform with an advanced block bootstrapping algorithm for portfolio weights.
-- Led Jamstack projects using Hugo, Eleventy, and Astro to build technical SEO blogs and product documentation, achieving high scores in Lighthouse and improved rankings for long-tail keywords.
-- Deployed inclusive design strategies, studying WCAG guidelines and following best practices, which resulted in improved accessibility scores and user retention across digital platforms.
-- Conducted extensive customer development and technical support, enabling others to achieve milestones and facilitating product improvements.
-- Leveraged AI and NLP tools to automate tasks and improve accuracy, despite a learning disability, becoming a Personal Knowledge Management (PKM) expert.
-- Took a career break from June 2023 to support my family, assisting my wife during her pregnancy and caring for my newborn since December 2023.
+### Customer Engineer — Privacy Dynamics
 
-### Customer Engineer
+**Oct 2021 – Jun 2022 | Seattle, WA**
 
-*2021 October - 2022 June*
+* Launched a new documentation platform using modern JavaScript stacks; handled UX, QA, and design.
+* Supported early-stage product adoption and resolved data privacy implementation questions.
+* Created content and guided customers across GDPR and data masking solutions.
 
-Privacy Dynamics — Seattle, WA
+### Technical Writing Specialist — Microsoft (via Premera)
 
-- Developed and managed a new documentation website using a JavaScript framework, creating engaging graphics and managing Netlify hosting, which improved site performance and user experience.
-- Engaged with early-stage customers to resolve technical queries about privacy solutions for the modern data stack, gaining valuable insights into customer needs and product improvements.
-- Collaborated with the engineering team to troubleshoot UX and QA issues, enhancing the product's usability and stability through rigorous testing and feedback loops.
-- Researched AI capabilities and facilitated the integration of automated strategies to enhance privacy solutions.
+**Apr 2019 – Jun 2020 | Seattle, WA**
 
-### Technical Writing Specialist
+* Authored urgent COVID-era internal documentation for Office 365 tools and migration support.
+* Used Git and Markdown to modernize internal docs with versioning and modular reuse.
+* Prototyped ML/NLP tools to streamline doc writing and reduce redundant support queries.
 
-*2019 April - 2020 June*
+### Technical Content Manager — Ookla
 
-Microsoft, Premera Blue Cross — Seattle, WA
+**Apr 2017 – Dec 2018 | Seattle, WA**
 
-- Authored critical Office 365 support documentation under tight deadlines during the COVID-19 pandemic, which significantly improved knowledge sharing and facilitated the seamless transition to remote work for global teams.
-- Streamlined internal knowledge transfer processes using git and markdown, achieving a 98% accuracy rate and reducing documentation errors in high-stakes environments.
-- Leveraged ML and NLP tools to improve documentation accuracy and automate repetitive tasks, enhancing productivity.
+* Created self-service docs for Speedtest Custom as ISPs migrated from Flash to JavaScript.
+* Delivered clear support content to over 1,200 ISPs, reducing onboarding friction and churn.
+* Led transition documentation and internal enablement for customer support.
 
-### Technical Content Manager
+### Product Manager / Knowledge Systems Lead — NinjaTrader
 
-*2017 April - 2018 December*
+**May 2010 – Apr 2017 | Denver, CO**
 
-Ookla — Seattle, WA
+* Authored a 700+ page help system for algorithmic trading software used by 60,000+ traders.
+* Led the development of NinjaScript's user-facing documentation and customer discovery cycles.
+* Trained and managed support analysts, integrating customer feedback into platform updates.
 
-- Curated tailored help content for Ookla's Speedtest Custom, guiding over 1200 ISPs in transitioning from Flash to JavaScript technologies.
-- Promoted an improved customer support framework through the meticulous development of a comprehensive documentation website.
-- Engaged in customer development and technical support to ensure seamless transitions and address customer needs.
-
-### Product Manager / Senior Knowledge Management Analyst
-
-*2010 May - 2017 April*
-
-NinjaTrader — Denver, CO
-
-- Crafted an extensive 700-page help guide, boosting the operational efficiency of 60,000+ traders using the NinjaTrader platform.
-- Administered advanced training for a technical support team of 30, focusing on algorithmic trading, while maintaining rigorous knowledge management practices.
-- Conducted AI capability research to integrate automated trading strategies, enhancing the platform's functionality.
+---
 
 ## Education
 
-### Studied Computer Information Systems
-
+**Computer Information Systems**
 Laramie County Community College — Cheyenne, WY
+*2005 – 2006 (incomplete)*
 
-2005-09-01 - 2006-12-01
+---
 
-## Skills 
+## Skills
 
-- JavaScript, VueJS, Tailwind, Python, Polars
-- Jamstack, Hugo, Eleventy, Astro
-- Technical SEO, Accessibility (WCAG)
-- Git, Markdown
-- AI and NLP Tools, ML Integration
-- Technical Writing, User Documentation
-- Customer Development, Technical Support
-- Personal Knowledge Management (PKM)
-- Product Management, Customer Development
+**Languages & Tools:** TypeScript, Python, C#, Vue, Astro, Hugo, FastAPI, Eleventy, Markdown, Git, Postgres, Tailwind, Polars
+**Specialties:** Technical Writing • Documentation Architecture • PKM Systems • Developer Experience • LLM Prompt Engineering • Jamstack Migrations • AI Workflows • Creative Automation
+**Soft Skills:** Strategic Discovery • Growth-Minded Communication • UX Empathy • Lean Execution
+
+---
+
+## Creative Projects (Selected)
+
+* **ScratchTrack** – audio prompt builder for AI music workflows
+* **Pantry.Report** – weekly zine for food planning and price intelligence
+* **P2P.house** – post-capitalist publishing studio for artists and zine creators
+* **Docs-score.com** – documentation scoring engine for technical sites
+
+---
+
+*Resume last updated: July 2025*
