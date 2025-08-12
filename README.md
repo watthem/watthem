@@ -21,7 +21,7 @@ My work blends **technical writing**, **data-driven development**, and **product
 - **📚 [Docs-score.com](https://docs-score.com)**  
   Technical documentation audits & scoring for developer-focused sites.
 
-- **🎵 [ScratchTrack](https://github.com/watthem/scratchtrack)**  
+- **🎵 [Brickwave](https://github.com/watthem/brickwave)**  
   Deterministic audio prompt builder for AI music tools like Suno.
 
 - **🥫 [Pantry.Report](https://pantry.report)**  
