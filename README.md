@@ -1,54 +1,66 @@
 # Matthew Hendricks
 
-## Systems Thinker • Creative Technologist • Documentation Specialist
+**Building production SaaS + next-gen trading infrastructure**
 
-Hey — I'm Matthew. I build lean systems that help people publish better content, ship smarter tools, and take back control of their knowledge.
+📊 **Current Focus:**
+- 🚀 **RapidWire**: Production SaaS with 15-minute response guarantee
+- 🎵 **GetNotes**: Music theory platform targeting 100 MRR
+- ⚡ **Matchstick**: Rust trading engine (building in public)
 
-My work blends **technical writing**, **data-driven development**, and **product thinking** into actionable workflows that scale — whether it’s for dev tools, food budgeting zines, or creative AI labs.
+## 🛠️ Technical Stack
+
+**Production Systems:**
+- **TypeScript + Rust** - Type safety meets performance
+- **Cloudflare Workers** - Edge computing for global scale
+- **Cap'n Proto RPC** - High-performance distributed systems
+- **Monorepo Architecture** - Turborepo + PNPM across 13+ projects
+
+**Deployment & Monitoring:**
+- **Vercel, Railway, Docker** - Multi-cloud deployment strategies
+- **Sentry + PostHog** - Error tracking + product analytics
+- **80%+ Test Coverage** - Comprehensive quality assurance
+
+## 🎯 Developer Tools Portfolio
+
+### Production-Ready Libraries
+- **FieldTest** - TypeScript validation toolkit (Standard Schema)
+- **MarkdownFlow** - Headless Readwise alternative (live on Workers)
+- **CSV Processor** - Universal data transformation with AI column mapping
+- **Brickwave** - Deterministic noise generation for DSP/AI research
+
+### Creative Applications
+- **Forage** - ADHD-friendly file discovery (Electron + Python)
+- **GetNotes** - Interactive music theory with MIDI support
+
+## 📈 Business Results
+
+**Architecture Expertise:**
+- Multi-tenant SaaS with complete tenant isolation
+- Real-time webhook systems handling enterprise workloads
+- Sub-millisecond Rust engines with Polars integration
+- Global edge deployment with <50ms latency
+
+**Product Development:**
+- 13+ active projects from concept to production
+- Revenue-generating products with validated pricing
+- Analytics-driven feature development
+- Comprehensive documentation standards
+
+## 🚀 What's Next?
+
+**Building Matchstick in Public** - Following the complete journey of building a next-generation trading engine:
+- Technical architecture decisions
+- Performance optimization insights  
+- Business model validation
+- Developer community building
+
+## 💬 Connect
+
+- 🌐 **Portfolio**: [watthem.github.io](https://watthem.github.io)
+- 📧 **Email**: [matthew@westmark.dev](mailto:matthew@westmark.dev)
+- 🔗 **GitHub**: [@watthem](https://github.com/watthem)
+- ⚡ **Matchstick**: [Follow the build](https://github.com/watthem/matchstick-workspace)
 
 ---
 
-### 🔧 Core Skills
-
-- **Languages**: TypeScript, Python, HTML5, CSS3, C#, JavaScript (ES6+)
-- **Frameworks & Tools**: Astro, FastAPI, Eleventy, Vue, .NET, Hugo, Obsidian, Postgres
-- **Specialties**: Technical Writing • CLI Tools • Headless CMS Migrations • AI-Enhanced Workflows • DevRel Infrastructure
-
----
-
-### 🧰 Recent & Ongoing Projects
-
-- **📚 [Docs-score.com](https://docs-score.com)**  
-  Technical documentation audits & scoring for developer-focused sites.
-
-- **🎵 [Brickwave](https://github.com/watthem/brickwave)**  
-  Deterministic audio prompt builder for AI music tools like Suno.
-
-- **🥫 [Pantry.Report](https://pantry.report)**  
-  Weekly food budget intelligence for families fighting inflation.
-
-- **🌐 [P2P.house](https://p2p.house)**  
-  Publishing lab for post-capitalist tools and community storytelling.
-
----
-
-### 🧭 Background
-
-- Authored the original 700+ page NinjaTrader Help Guide and drove NinjaScript feedback development.
-- Supported global content migrations and onboarding flows at Microsoft, Ookla, and early-stage startups.
-- Currently focused on local-first tools, digital zines, and sustainable creative work.
-
----
-
-### 🤝 Let’s Work Together
-
-I help founders, writers, and technologists clarify their workflows and ship with confidence.
-
-📬 Consulting Email: [matthew@westmark.dev](mailto:matthew@westmark.dev)  
-🌐 Blog: [https://watthem.blog](https://watthem.blog)  
-🧪 Lab: [https://p2p.house](https://p2p.house)  
-💼 Resume: [resume.md](https://github.com/watthem/watthem/blob/master/resume.md)
-
----
-
-_Systems are care. Let’s build something that lasts._
+_Production systems that scale. Trading engines that perform. Building in public._
