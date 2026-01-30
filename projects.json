@@ -1,0 +1,68 @@
+{
+  "featured": [
+    {
+      "name": "@watthem/quarrel",
+      "repo": "watthem/quarrel",
+      "npm": "@watthem/quarrel",
+      "description": "Lightweight TF-IDF similarity toolkit. Dependency-free, works in Node, browsers, and Obsidian.",
+      "tags": ["similarity", "tfidf", "nlp"],
+      "status": "active"
+    },
+    {
+      "name": "@watthem/fieldtest",
+      "repo": "watthem/fieldtest",
+      "npm": "@watthem/fieldtest",
+      "description": "Schema validation toolkit for content-rich systems. Standard Schema V1 compliant.",
+      "tags": ["validation", "schema", "typescript"],
+      "status": "active"
+    },
+    {
+      "name": "@fieldtest/doc-ref",
+      "repo": "watthem/fieldtest",
+      "npm": "@fieldtest/doc-ref",
+      "description": "Doc-driven testing validation. Ensure tests reference documentation and those references are valid.",
+      "tags": ["testing", "documentation", "validation"],
+      "status": "active"
+    },
+    {
+      "name": "obsidian-similar-notes",
+      "repo": "watthem/obsidian-similar-notes",
+      "description": "Find semantically related notes locally—no API keys, no cloud. Powered by quarrel.",
+      "tags": ["obsidian", "plugin", "similarity"],
+      "status": "active"
+    }
+  ],
+  "tools": [
+    {
+      "name": "@watthem/similar-files",
+      "repo": "watthem/similar-files",
+      "npm": "@watthem/similar-files",
+      "description": "CLI tool for finding similar files across a codebase using TF-IDF.",
+      "tags": ["cli", "similarity", "devtools"],
+      "status": "active"
+    }
+  ],
+  "experiments": [
+    {
+      "name": "@frontjs/core",
+      "repo": "frontjs/frontjs",
+      "npm": "@frontjs/core",
+      "description": "Micro-framework experiment focused on secure-by-default patterns and islands-first architecture.",
+      "tags": ["framework", "web", "experimental"],
+      "status": "experimental"
+    },
+    {
+      "name": "brickwave",
+      "repo": "watthem/brickwave",
+      "description": "Offline deterministic noise generator for DSP devs. White, pink, brown noise with seed-based results.",
+      "tags": ["audio", "dsp", "noise"],
+      "status": "archived"
+    }
+  ],
+  "meta": {
+    "email": "matthew.scott.hendricks@gmail.com",
+    "website": "https://matthewhendricks.net",
+    "github": "https://github.com/watthem",
+    "tagline": "Small, practical libraries for developer workflows."
+  }
+}
