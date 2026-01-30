@@ -1,66 +1,41 @@
 # Matthew Hendricks
 
-**Building production SaaS + next-gen trading infrastructure**
+Small, practical libraries for developer workflows.
 
-📊 **Current Focus:**
-- 🚀 **RapidWire**: Production SaaS with 15-minute response guarantee
-- 🎵 **GetNotes**: Music theory platform targeting 100 MRR
-- ⚡ **Matchstick**: Rust trading engine (building in public)
+## Featured Projects
 
-## 🛠️ Technical Stack
+### @watthem/quarrel
 
-**Production Systems:**
-- **TypeScript + Rust** - Type safety meets performance
-- **Cloudflare Workers** - Edge computing for global scale
-- **Cap'n Proto RPC** - High-performance distributed systems
-- **Monorepo Architecture** - Turborepo + PNPM across 13+ projects
+Lightweight TF-IDF similarity toolkit. Dependency-free, works in Node, browsers, and Obsidian.
 
-**Deployment & Monitoring:**
-- **Vercel, Railway, Docker** - Multi-cloud deployment strategies
-- **Sentry + PostHog** - Error tracking + product analytics
-- **80%+ Test Coverage** - Comprehensive quality assurance
+- [npm](https://npmjs.com/package/@watthem/quarrel) | [GitHub](https://github.com/watthem/quarrel)
 
-## 🎯 Developer Tools Portfolio
+### @watthem/fieldtest
 
-### Production-Ready Libraries
-- **FieldTest** - TypeScript validation toolkit (Standard Schema)
-- **MarkdownFlow** - Headless Readwise alternative (live on Workers)
-- **CSV Processor** - Universal data transformation with AI column mapping
-- **Brickwave** - Deterministic noise generation for DSP/AI research
+Schema validation toolkit for content-rich systems. Standard Schema V1 compliant.
 
-### Creative Applications
-- **Forage** - ADHD-friendly file discovery (Electron + Python)
-- **GetNotes** - Interactive music theory with MIDI support
+- [npm](https://npmjs.com/package/@watthem/fieldtest) | [GitHub](https://github.com/watthem/fieldtest)
 
-## 📈 Business Results
+### @fieldtest/doc-ref
 
-**Architecture Expertise:**
-- Multi-tenant SaaS with complete tenant isolation
-- Real-time webhook systems handling enterprise workloads
-- Sub-millisecond Rust engines with Polars integration
-- Global edge deployment with <50ms latency
+Doc-driven testing validation. Ensure tests reference documentation and those references are valid.
 
-**Product Development:**
-- 13+ active projects from concept to production
-- Revenue-generating products with validated pricing
-- Analytics-driven feature development
-- Comprehensive documentation standards
+- [npm](https://npmjs.com/package/@fieldtest/doc-ref) | [GitHub](https://github.com/watthem/fieldtest/tree/main/packages/doc-ref)
 
-## 🚀 What's Next?
+### obsidian-similar-notes
 
-**Building Matchstick in Public** - Following the complete journey of building a next-generation trading engine:
-- Technical architecture decisions
-- Performance optimization insights  
-- Business model validation
-- Developer community building
+Find semantically related notes locally—no API keys, no cloud. Powered by quarrel.
 
-## 💬 Connect
+- [GitHub](https://github.com/watthem/obsidian-similar-notes)
 
-- 🌐 **Portfolio**: [watthem.github.io](https://watthem.github.io)
-- 📧 **Email**: [matthew@westmark.dev](mailto:matthew@westmark.dev)
-- 🔗 **GitHub**: [@watthem](https://github.com/watthem)
-- ⚡ **Matchstick**: [Follow the build](https://github.com/watthem/matchstick-workspace)
+## Tools
+
+### @watthem/similar-files
+
+CLI tool for finding similar files across a codebase using TF-IDF.
+
+- [npm](https://npmjs.com/package/@watthem/similar-files) | [GitHub](https://github.com/watthem/similar-files)
 
 ---
 
-_Production systems that scale. Trading engines that perform. Building in public._
+matthew.scott.hendricks@gmail.com | [matthewhendricks.net](https://matthewhendricks.net)
