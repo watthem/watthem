@@ -1,41 +1,34 @@
 # Matthew Hendricks
 
-Small, practical libraries for developer workflows.
+Systems architect building small, practical tools for developer workflows.
 
-## Featured Projects
+## Flagship
 
-### @watthem/quarrel
+### [@watthem/quarrel](https://github.com/watthem/quarrel)
+Zero-dependency TF-IDF similarity engine for JS/TS. Works in Node, browsers, and Obsidian plugins.
+[npm](https://npmjs.com/package/@watthem/quarrel)
 
-Lightweight TF-IDF similarity toolkit. Dependency-free, works in Node, browsers, and Obsidian.
+### [@watthem/similar-files](https://github.com/watthem/similar-files)
+CLI codebase search powered by quarrel. Find structurally similar files without leaving the terminal.
+[npm](https://npmjs.com/package/@watthem/similar-files)
 
-- [npm](https://npmjs.com/package/@watthem/quarrel) | [GitHub](https://github.com/watthem/quarrel)
+### [quarrel-similar-notes](https://github.com/watthem/quarrel-similar-notes)
+Obsidian plugin for local semantic search. No API keys, no cloud. Proof that quarrel works in production.
 
-### @watthem/fieldtest
+## Validation & Testing
 
+### [@watthem/fieldtest](https://github.com/watthem/fieldtest)
 Schema validation toolkit for content-rich systems. Standard Schema V1 compliant.
+[npm](https://npmjs.com/package/@watthem/fieldtest)
 
-- [npm](https://npmjs.com/package/@watthem/fieldtest) | [GitHub](https://github.com/watthem/fieldtest)
+## Design & Frameworks
 
-### @fieldtest/doc-ref
+### [disclosures](https://github.com/disclosures/disclosures)
+Vanilla CSS design system and animated disclosure components. No build step required.
 
-Doc-driven testing validation. Ensure tests reference documentation and those references are valid.
-
-- [npm](https://npmjs.com/package/@fieldtest/doc-ref) | [GitHub](https://github.com/watthem/fieldtest/tree/main/packages/doc-ref)
-
-### obsidian-similar-notes
-
-Find semantically related notes locally—no API keys, no cloud. Powered by quarrel.
-
-- [GitHub](https://github.com/watthem/obsidian-similar-notes)
-
-## Tools
-
-### @watthem/similar-files
-
-CLI tool for finding similar files across a codebase using TF-IDF.
-
-- [npm](https://npmjs.com/package/@watthem/similar-files) | [GitHub](https://github.com/watthem/similar-files)
+### [@frontjs](https://github.com/watthem/front-js)
+Experimental framework for building small web systems with explicit client/server contracts.
 
 ---
 
-matthew.scott.hendricks@gmail.com | [matthewhendricks.net](https://matthewhendricks.net)
+[matthewhendricks.net](https://matthewhendricks.net) | matthew.scott.hendricks@gmail.com
