@@ -23,13 +23,6 @@
       "description": "Doc-driven testing validation. Ensure tests reference documentation and those references are valid.",
       "tags": ["testing", "documentation", "validation"],
       "status": "active"
-    },
-    {
-      "name": "obsidian-similar-notes",
-      "repo": "watthem/obsidian-similar-notes",
-      "description": "Find semantically related notes locally—no API keys, no cloud. Powered by quarrel.",
-      "tags": ["obsidian", "plugin", "similarity"],
-      "status": "active"
     }
   ],
   "tools": [
@@ -45,24 +38,16 @@
   "experiments": [
     {
       "name": "@frontjs/core",
-      "repo": "frontjs/frontjs",
-      "npm": "@frontjs/core",
+      "repo": "watthem/front-js",
       "description": "Micro-framework experiment focused on secure-by-default patterns and islands-first architecture.",
       "tags": ["framework", "web", "experimental"],
       "status": "experimental"
-    },
-    {
-      "name": "brickwave",
-      "repo": "watthem/brickwave",
-      "description": "Offline deterministic noise generator for DSP devs. White, pink, brown noise with seed-based results.",
-      "tags": ["audio", "dsp", "noise"],
-      "status": "archived"
     }
   ],
   "meta": {
-    "email": "matthew.scott.hendricks@gmail.com",
+    "email": "contact@matthewhendricks.net",
     "website": "https://matthewhendricks.net",
     "github": "https://github.com/watthem",
-    "tagline": "Small, practical libraries for developer workflows."
+    "tagline": "I make technical systems easier to support, document, and operate."
   }
 }

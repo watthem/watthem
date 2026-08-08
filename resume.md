@@ -1,72 +1,82 @@
 # Matthew Hendricks
 
-## Systems Thinker • Creative Technologist • Documentation Specialist
+## Product Support & Implementation Engineer
 
-> 15+ years building lean systems, clear docs, and creative tools to help people ship faster and think better.
+I make messy technical systems easier to support, document, and operate.
 
 ---
 
 ## Contact
 
-* Mountlake Terrace, WA (Greater Seattle area)
-* [matthew@westmark.dev](mailto:matthew@westmark.dev)
-* Blog: [https://watthem.blog](https://watthem.blog)
-* Projects: [https://docs-score.com](https://docs-score.com), [https://pantry.report](https://pantry.report)
+* Greater Seattle area
+* [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
+* [matthewhendricks.net](https://matthewhendricks.net)
+* [GitHub](https://github.com/watthem)
 
 ---
 
 ## Professional Summary
 
-* Deep expertise across documentation systems, web tooling, and startup infrastructure — combining product thinking with technical execution.
-* Skilled at making complex systems usable, whether through technical writing, CLI tools, AI-enhanced workflows, or customer onboarding.
-* Launched independent platforms for food budgeting, creative publishing, and developer lead gen.
-* Recent focus: productized services, LLM-enhanced writing flows, and bootstrapping sustainable creative tools.
+My background spans product management, technical support leadership, customer
+engineering, process design, and hands-on software development. I trace where customers
+and internal teams get stuck, then build the process, tooling, or documentation needed
+to make the system easier to operate.
 
 ---
 
 ## Work Experience
 
-### Independent Consultant — Web & Documentation Systems
+### Full-time Parent / Independent Builder
 
-**2023 – Present | Remote | Mountlake Terrace, WA**
+**Sep 2022–Present | Greater Seattle area**
 
-* Built and shipped multiple solo products: `Docs-score.com`, `Optimizer0`, `Pantry.Report`, and `ScratchTrack`.
-* Created a reusable CLI library and scoring engine to evaluate technical documentation across dev tool sites.
-* Led client migrations from legacy CMS platforms to modern stacks using Sanity, Next.js, Astro, and Eleventy.
-* Published weekly zines and budget tools to support families under inflation pressure.
-* Researched and prototyped deterministic audio workflows for AI music generation tools like Suno and Chirp.
+Balanced limited consulting with caregiving through mid-2025. Since July 2025, focused
+on full-time parenting while maintaining selected public tools and writing when capacity
+allows.
+
+### Technical Consultant — Westmark.dev
+
+**Feb 2023–Jul 2025 | Self-employed**
+
+Delivered bounded consulting and product R&D projects across workflow-heavy MVPs, UX
+cleanup, and documentation systems while sharing caregiving responsibilities.
 
 ### Customer Engineer — Privacy Dynamics
 
-**Oct 2021 – Jun 2022 | Seattle, WA**
+**Oct 2021–Sep 2022 | Seattle, WA**
 
-* Launched a new documentation platform using modern JavaScript stacks; handled UX, QA, and design.
-* Supported early-stage product adoption and resolved data privacy implementation questions.
-* Created content and guided customers across GDPR and data masking solutions.
+Built the customer-facing documentation site, supported early-stage customers, and
+turned implementation questions into documentation, QA, and product follow-up.
 
-### Technical Writing Specialist — Microsoft (via Premera)
+### Contract Technical Writer — Microsoft (via Apex Systems)
 
-**Apr 2019 – Jun 2020 | Seattle, WA**
+**Feb 2020–Jun 2020 | Redmond, WA**
 
-* Authored urgent COVID-era internal documentation for Office 365 tools and migration support.
-* Used Git and Markdown to modernize internal docs with versioning and modular reuse.
-* Prototyped ML/NLP tools to streamline doc writing and reduce redundant support queries.
+Consolidated product and engineering knowledge into structured wiki content for an
+Office 365 support organization.
 
-### Technical Content Manager — Ookla
+### Business Analyst, Process & Documentation Systems — Premera Blue Cross
+
+**Apr 2019–Dec 2019 | Contract**
+
+Improved workforce-management efficiency by about 10% through process analysis and
+built SharePoint documentation hubs.
+
+### Technical Services Manager — Ookla, Speedtest Custom
 
 **Apr 2017 – Dec 2018 | Seattle, WA**
 
-* Created self-service docs for Speedtest Custom as ISPs migrated from Flash to JavaScript.
-* Delivered clear support content to over 1,200 ISPs, reducing onboarding friction and churn.
-* Led transition documentation and internal enablement for customer support.
+Managed a 5-person technical services team supporting about 1,500 accounts, reduced
+customer response time by about 50%, and helped customers migrate from Flash-based
+testing to browser-native WebSocket/XHR.
 
-### Product Manager / Knowledge Systems Lead — NinjaTrader
+### Product Manager / Technical Support Lead — NinjaTrader
 
-**May 2010 – Apr 2017 | Denver, CO**
+**May 2010–Jan 2017 | Denver, CO**
 
-* Authored a 700+ page help system for algorithmic trading software used by 60,000+ traders.
-* Led the development of NinjaScript's user-facing documentation and customer discovery cycles.
-* Trained and managed support analysts, integrating customer feedback into platform updates.
+Led a 15-person technical support and services team for a trading platform with about
+40,000 users. Maintained user documentation, supported C# debugging, and translated
+customer workflow problems into product and documentation improvements.
 
 ---
 
@@ -78,21 +88,18 @@ Laramie County Community College — Cheyenne, WY
 
 ---
 
+## Public work
+
+* [FieldTest](https://github.com/watthem/fieldtest): validation tools for data and documentation workflows.
+* [Quarrel](https://github.com/watthem/quarrel): dependency-free TF-IDF similarity tools.
+* [Similar Files](https://github.com/watthem/similar-files): local codebase search using TF-IDF.
+* [childcare.fyi](https://childcare.fyi): progressive disclosure for childcare policy.
+* [Easy Walk](https://interval-walking-coach.pages.dev): interval-walking timer built around a specific routine.
+
 ## Skills
 
-**Languages & Tools:** TypeScript, Python, C#, Vue, Astro, Hugo, FastAPI, Eleventy, Markdown, Git, Postgres, Tailwind, Polars
-**Specialties:** Technical Writing • Documentation Architecture • PKM Systems • Developer Experience • LLM Prompt Engineering • Jamstack Migrations • AI Workflows • Creative Automation
-**Soft Skills:** Strategic Discovery • Growth-Minded Communication • UX Empathy • Lean Execution
+Support operations, customer implementation, process design, documentation systems,
+knowledge management, TypeScript, JavaScript, Python, C#, Astro, Git, Markdown, and
+Cloudflare.
 
----
-
-## Creative Projects (Selected)
-
-* **ScratchTrack** – audio prompt builder for AI music workflows
-* **Pantry.Report** – weekly zine for food planning and price intelligence
-* **P2P.house** – post-capitalist publishing studio for artists and zine creators
-* **Docs-score.com** – documentation scoring engine for technical sites
-
----
-
-*Resume last updated: July 2025*
+*Resume last updated: August 2026*
