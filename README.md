@@ -18,13 +18,24 @@ CLI codebase search powered by quarrel. Find structurally similar files without 
 
 ## Validation and documentation
 
-### [@watthem/fieldtest](https://github.com/watthem/fieldtest)
-Schema validation toolkit for content-rich systems. Standard Schema V1 compliant.
-[npm](https://npmjs.com/package/@watthem/fieldtest)
+### [@fieldtest/core](https://github.com/watthem/fieldtest)
+Validate Markdown documents and data with any Standard Schema library. Front matter, body structure and agent skills.
+[npm](https://www.npmjs.com/package/@fieldtest/core)
+
+### [Stela](https://github.com/watthem/stela)
+Chunk UTF-8 text with exact source-byte ranges and SHA-256 hashes, so every chunk points back to its source.
+[npm](https://www.npmjs.com/package/@watthem/stela)
+
+### [tos.watch](https://tos.watch)
+Get an email when a company changes what it does with your data. Source: [watthem/tos-watch](https://github.com/watthem/tos-watch).
 
 ### [@fieldtest/doc-ref](https://github.com/watthem/fieldtest/tree/main/packages/doc-ref)
 Checks that tests reference documentation and that those references remain valid.
 [npm](https://www.npmjs.com/package/@fieldtest/doc-ref)
+
+## Current product work
+
+I am building Matchstick Replay, a market-data replay tool, in the [matchstick-trading](https://github.com/matchstick-trading) organization. Replay itself is not public yet; the org holds the public parts.
 
 ## Interface experiments
 
@@ -36,4 +47,4 @@ Experimental framework for building small web systems with explicit client/serve
 
 ---
 
-[Work and CV](https://matthewhendricks.net) · [Writing](https://blog-matthewhendricks-net.pages.dev) · [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
+[Work and CV](https://matthewhendricks.net) · [Writing](https://blog.matthewhendricks.net) · [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
