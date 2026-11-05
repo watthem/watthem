@@ -2,7 +2,7 @@
 
 ## Product Support & Implementation Engineer
 
-I make messy technical systems easier to support, document, and operate.
+Former NinjaTrader PM. Building Matchstick Replay. I make messy technical systems easier to support, document, and operate.
 
 ---
 
@@ -12,6 +12,7 @@ I make messy technical systems easier to support, document, and operate.
 * [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
 * [matthewhendricks.net](https://matthewhendricks.net)
 * [GitHub](https://github.com/watthem)
+* [X](https://x.com/watthem_matthew)
 
 ---
 
@@ -34,7 +35,7 @@ Balanced limited consulting with caregiving through mid-2025. Since July 2025, f
 on full-time parenting while maintaining selected public tools and writing when capacity
 allows.
 
-### Technical Consultant — Westmark.dev
+### Technical Consultant, Self-employed
 
 **Feb 2023–Jul 2025 | Self-employed**
 

@@ -1,7 +1,8 @@
 # Matthew Hendricks
 
-Product support and implementation engineer. I build small tools that make technical
-systems easier to understand and operate.
+Product support and implementation engineer. Former NinjaTrader PM. Building Matchstick Replay.
+
+I build small tools that make technical systems easier to understand and operate.
 
 My public work currently focuses on local search, validation, documentation workflows,
 and small products built around a specific user problem.
@@ -47,4 +48,4 @@ Experimental framework for building small web systems with explicit client/serve
 
 ---
 
-[Work and CV](https://matthewhendricks.net) · [Writing](https://blog.matthewhendricks.net) · [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net)
+[Work and CV](https://matthewhendricks.net) · [Writing](https://blog.matthewhendricks.net) · [contact@matthewhendricks.net](mailto:contact@matthewhendricks.net) · [X](https://x.com/watthem_matthew)
